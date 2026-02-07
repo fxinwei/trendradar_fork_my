@@ -251,7 +251,7 @@ Nuclear
 
 ################## 数码 #######################
 [游戏]
-/switch|ps|xbox|nintendo/i => 游戏主机
+/\bswitch\b|\bps\b|\bxbox\b|nintendo/i => 游戏主机
 
 [三星]
 Samsung
