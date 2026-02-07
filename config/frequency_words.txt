@@ -254,11 +254,20 @@ Nuclear
 /\bswitch\b|\bps\b|\bxbox\b|nintendo/i => 游戏主机
 
 [三星]
-Samsung
-三星
+/Samsung|三星/ => 三星
+
 galaxy s26
+测评
+发布
+
 zflip
+测评
+发布
 ############# 金融 ################
 [加密货币]
 /比特币|Bitcoin|BTC/i => 比特币
 /以太币|Ethereum|ETH/i => 以太币
+
+[贵金属]
+黄金
+白银
