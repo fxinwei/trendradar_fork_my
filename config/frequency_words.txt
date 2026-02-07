@@ -249,7 +249,15 @@ Nuclear
 /超导|Superconductor|Superconductivity/i => 超导
 量子计算
 
-# 产业政策
+################## 数码 #######################
+[游戏]
+/switch|ps|xbox|nintendo/i => 游戏主机
+
+[三星]
+Samsung
+三星
+galaxy s26
+zflip
 ############# 金融 ################
 [加密货币]
 /比特币|Bitcoin|BTC/i => 比特币
